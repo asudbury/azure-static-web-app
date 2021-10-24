@@ -1,5 +1,5 @@
 {
-  "name": "azure-deployment-sample",
+  "name": "azure-static-web-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
